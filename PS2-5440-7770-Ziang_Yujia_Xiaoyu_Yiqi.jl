@@ -11,7 +11,7 @@ md"""
 
 # ╔═╡ 7057c8e4-9e94-4a28-a885-07f5c96ebe39
 html"""
-<p style="font-size:20px;">Ziang Gao, zg276, Yujia Huang, yh945, Xiaoyu Zhang, xz352, Yiqi Shao, ys882</br>
+<p style="font-size:20px;">Ziang Gao, zg276, Yujia Huang, yh945, Xiaoyu Zhang, xz352, Yiqi shao, ys882</br>
 Smith School of Chemical and Biomolecular Engineering, Cornell University, Ithaca NY 14850</p>
 Contribution:</br>
 Ziang & Yujia worked on the stoichiometric array, figured out v's and b's, and confirmed the balanced array contains all zeros. Then analyze the reaction frequency. </br>
