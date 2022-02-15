@@ -1,5 +1,5 @@
 ### A Pluto.jl notebook ###
-# v0.17.5
+# v0.18.0
 
 using Markdown
 using InteractiveUtils
@@ -11,8 +11,11 @@ md"""
 
 # ╔═╡ 7057c8e4-9e94-4a28-a885-07f5c96ebe39
 html"""
-<p style="font-size:20px;">Ziang Gao, zg276</br>
+<p style="font-size:20px;">Ziang Gao, zg276, Yujia Huang, yh945</br>
 Smith School of Chemical and Biomolecular Engineering, Cornell University, Ithaca NY 14850</p>
+Contribution:</br>
+Ziang Gao</p>
+Yujia Huang</p>
 """
 
 # ╔═╡ 87a183bc-3857-4189-8103-18c46ff3245d
@@ -1159,7 +1162,7 @@ version = "0.9.1+5"
 
 # ╔═╡ Cell order:
 # ╟─6b1ad54f-61e4-490d-9032-7a557e8dc82f
-# ╟─7057c8e4-9e94-4a28-a885-07f5c96ebe39
+# ╠═7057c8e4-9e94-4a28-a885-07f5c96ebe39
 # ╟─87a183bc-3857-4189-8103-18c46ff3245d
 # ╠═6bcbbdbe-fa9c-40e8-807d-5f72d95203e3
 # ╠═5338451e-3c4b-4030-bbbb-42eaf4209a89
