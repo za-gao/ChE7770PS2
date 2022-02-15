@@ -14,8 +14,8 @@ html"""
 <p style="font-size:20px;">Ziang Gao, zg276, Yujia Huang, yh945</br>
 Smith School of Chemical and Biomolecular Engineering, Cornell University, Ithaca NY 14850</p>
 Contribution:</br>
-Ziang Gao</p>
-Yujia Huang</p>
+Ziang Gao</br>
+Yujia Huang</br>
 """
 
 # ╔═╡ 87a183bc-3857-4189-8103-18c46ff3245d
