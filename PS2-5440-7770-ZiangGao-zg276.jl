@@ -16,7 +16,10 @@ Smith School of Chemical and Biomolecular Engineering, Cornell University, Ithac
 Contribution:</br>
 Ziang Gao</br>
 Yujia Huang</br>
+<<<<<<< HEAD
 Xiaoyu Zhang</br>
+=======
+>>>>>>> 7819c18357dfff89d76500e03ca18b48b07a3880
 """
 
 # ╔═╡ 87a183bc-3857-4189-8103-18c46ff3245d
