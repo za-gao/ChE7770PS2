@@ -1,5 +1,5 @@
 ### A Pluto.jl notebook ###
-# v0.17.5
+# v0.17.7
 
 using Markdown
 using InteractiveUtils
@@ -15,7 +15,7 @@ html"""
 Smith School of Chemical and Biomolecular Engineering, Cornell University, Ithaca NY 14850</p>
 Contribution:</br>
 Ziang & Yujia worked on the stoichiometric array, figured out v's and b's, and confirmed the balanced array contains all zeros. Then analyze the reaction frequency. </br>
-Xiaoyu & Yiqi worked on the metabolite and reaction connectivity array.</br>
+Xiaoyu & Yiqi worked on the metabolite and reaction connectivity array part.</br>
 All contributors worked together to discuss the code.</br>
 """
 
