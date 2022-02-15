@@ -1,5 +1,5 @@
 ### A Pluto.jl notebook ###
-# v0.17.5
+# v0.18.0
 
 using Markdown
 using InteractiveUtils
@@ -161,11 +161,11 @@ a {
 function binary_stoichiometric_matrix(matrix::Array{Float64,2})::Array{Int64,2}
 
 	# initialize -
-	(ℳ,ℛ) = size(matrix)
-	B = Array{Int64,2}(undef,ℳ,ℛ)
+	(M,R) = size(matrix)
+	B = Array{Int64,2}(undef,M,R)
 
-	for row_index ∈ 1:ℳ
-		for col_index ∈ 1:ℛ
+	for row_index ∈ 1:M
+		for col_index ∈ 1:R
 
 			old_value = matrix[row_index,col_index]
 			if (old_value == 0.0)
@@ -1163,7 +1163,7 @@ version = "0.9.1+5"
 
 # ╔═╡ Cell order:
 # ╟─6b1ad54f-61e4-490d-9032-7a557e8dc82f
-# ╠═7057c8e4-9e94-4a28-a885-07f5c96ebe39
+# ╟─7057c8e4-9e94-4a28-a885-07f5c96ebe39
 # ╟─87a183bc-3857-4189-8103-18c46ff3245d
 # ╠═6bcbbdbe-fa9c-40e8-807d-5f72d95203e3
 # ╠═5338451e-3c4b-4030-bbbb-42eaf4209a89
